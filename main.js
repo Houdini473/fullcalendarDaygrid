@@ -51,7 +51,7 @@ import {
   DateProfileGenerator,
   identity,
   createPlugin,
-} from "@fullcalendar/common";
+} from "@houdini473/common";
 import { __extends, __assign, __spreadArrays } from "tslib";
 
 /* An abstract class for the daygrid views, as well as month view. Renders one or more rows of day cells.
