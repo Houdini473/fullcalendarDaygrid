@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Houdini473/fullcalendarDaygrid/issues"
   },
-  "homepage": "https://github.com/Houdini473/fullcalendarDaygrid#readme"
+  "homepage": "https://github.com/Houdini473/fullcalendarDaygrid#readme",
+  "dependencies": {
+    "@houdini473/common": "^1.0.0",
+    "tslib": "^2.2.0"
+  }
 }
